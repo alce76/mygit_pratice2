@@ -10,7 +10,6 @@ a {
     width: 1170px;
     padding: 0 15px;
     margin: 0 auto;
-    border: 1px solid white;
 }
 
 .top-wrapper {
@@ -57,7 +56,6 @@ a {
 }
 
 .btn-wrapper {
-    border: 1px solid white;
     margin: 20px 0;
 }
 
@@ -70,7 +68,6 @@ a {
 }
 
 .lesson-wrapper {
-    border: 3px solid red;
     height: 500px;
     padding-bottom: 80px;
     background-color: #f7f7f7;
@@ -78,7 +75,6 @@ a {
 }
 
 .heading {
-    border: 3px solid blue;
     padding: 60px 0 30px 0;
 }
 
